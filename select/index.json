@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "I Stayed Too Long At The Fair",
+  "base_artist": "Barbra Streisand",
+  "createdAt": "2026-03-27T07:16:24.794692Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Stayed Too Long at the Fair",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/01_I_Stayed_Too_Long_at_the_Fair_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Stayed Too Long at the Fair",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/02_I_Stayed_Too_Long_at_the_Fair_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Stayed Too Long At the Fair",
+      "artist": "Rosemary Clooney",
+      "has_synced": true,
+      "path": "select/03_I_Stayed_Too_Long_At_the_Fair_Rosemary_Clooney.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Stayed Too Long At The Fair",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/04_I_Stayed_Too_Long_At_The_Fair_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Stayed Too Long at the Fair",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/05_I_Stayed_Too_Long_at_the_Fair_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Stayed Too Long at the Fair",
+      "artist": "Barbra Streisand",
+      "has_synced": false,
+      "path": "select/06_I_Stayed_Too_Long_at_the_Fair_Barbra_Streisand.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Stayed Too Long at the Fair",
+      "artist": "Barbara Streisand",
+      "has_synced": true,
+      "path": "select/07_I_Stayed_Too_Long_at_the_Fair_Barbara_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Stayed Too Long At The Fair",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/08_I_Stayed_Too_Long_At_The_Fair_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Stayed Too Long at the Fair",
+      "artist": "Patti Page",
+      "has_synced": false,
+      "path": "select/09_I_Stayed_Too_Long_at_the_Fair_Patti_Page.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Stayed Too Long at the Fair",
+      "artist": "Page, Patti",
+      "has_synced": false,
+      "path": "select/10_I_Stayed_Too_Long_at_the_Fair_Page,_Patti.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Stayed Too Long at the Fair",
+      "artist": "Patti Page",
+      "has_synced": true,
+      "path": "select/11_I_Stayed_Too_Long_at_the_Fair_Patti_Page.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Stayed Too Long at the Fair",
+      "artist": "Page, Patti",
+      "has_synced": true,
+      "path": "select/12_I_Stayed_Too_Long_at_the_Fair_Page,_Patti.lrc"
+    }
+  ]
+}
